@@ -1,0 +1,1 @@
+# kyyu-word
